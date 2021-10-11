@@ -41,3 +41,4 @@ Some limitations to this dataset can be the number of total projects captured wi
 
 Other possible tables we can use could be based on the amount pledged rather than the goal amount. We could also use pie charts to help visualize the percentages of those successful/failed/canceled. Bar charts may be useful as well to show  the total number of successful or failed campaigns based on their funding goal amount:
 
+![Number Successful/Failed Per Goal Amount](Resources/Number_Successful.Failed_Per_Goal_Amount.png)

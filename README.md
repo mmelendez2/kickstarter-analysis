@@ -10,6 +10,8 @@ The purpose of this analysis is to help Louise understand if similar plays with 
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Outcomes Based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered

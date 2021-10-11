@@ -18,7 +18,7 @@ The purpose of this analysis is to help Louise understand if similar plays with 
 
 ### Challenges and Difficulties Encountered
 
-Once challenge met was to quantify the number of successful, failed, and canceled campaigns based on goal amounts within certain ranges. To overcome this, I not only used COUNTIFS formulas to help capture how many campaigns met their goals based on how much the funding goal was, I reverified my findings by filtering the raw data accordingly. For example, the number of failed campaigns with the goal amount of less than $1,000, I filtered the raw data on the Kickstarter sheet by first filtering the outcomes (Column F) to Failed, then by the Subcategory (Column O) to Plays, and finally I filtered/selected all the amounts under $1,000 in the Goal column (Column D) - this amount being 45 failed campaigns for plays with a goal less than $1,000.
+One challenge met was to quantify the number of successful, failed, and canceled campaigns based on goal amounts within certain ranges. To overcome this, I not only used COUNTIFS formulas to help capture how many campaigns met their goals based on how much the funding goal was, I reverified my findings by filtering the raw data accordingly. For example, the number of failed campaigns with the goal amount of less than $1,000, I filtered the raw data on the Kickstarter sheet by first filtering the outcomes (Column F) to Failed, then by the Subcategory (Column O) to Plays, and finally I filtered/selected all the amounts under $1,000 in the Goal column (Column D) - this amount being 45 failed campaigns for plays with a goal less than $1,000.
 
 
 ## Results

@@ -14,6 +14,8 @@ The purpose of this analysis is to help Louise understand if similar plays with 
 
 ### Analysis of Outcomes Based on Goals
 
+![Outcomes Based on Goals](Resources/Outcomes_vs_Goals.png)
+
 ### Challenges and Difficulties Encountered
 
 ## Results
